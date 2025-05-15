@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Alan Yang
 
 🎓 Mechatronics Engineering student at the University of Waterloo  
-🔧 Passionate about building systems that integrate hardware, software, and mechanical design
-💻 Always looking to learn, improve, and contribute as an engineer who bridges the gap between electronics, mechanics, and code.
+🔧 Passionate about building systems that integrate hardware, software, and mechanical design  
+💻 Always looking to learn, improve, and contribute as an engineer who bridges the gap between electronics, mechanics, and code.  
 
 ### 🤝 Connect with Me
 
