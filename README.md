@@ -39,10 +39,13 @@
 
 <p>
   <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=solidworks&logoColor=white" />
+  <img alt="Fusion 360" src="https://img.shields.io/badge/-Fusion_360-FE8C00?style=flat-square&logo=autodesk&logoColor=white" />
   <img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-E34F26?style=flat-square&logo=autodesk&logoColor=white" />
   <img alt="Altium Designer" src="https://img.shields.io/badge/-Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" />
+  <img alt="Arduino IDE" src="https://img.shields.io/badge/-Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="Bambu Studio" src="https://img.shields.io/badge/-Bambu_Studio-00A36C?style=flat-square&logo=3d&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>  
+</p> 
 
 #### Tools & Platforms
 
